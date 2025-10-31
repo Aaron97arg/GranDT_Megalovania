@@ -13,7 +13,7 @@ namespace CapaEntidad
         public required string Apellido { get; set; }
         public required string Email { get; set; }
         public DateTime FechaNac { get; set; }
-        public required Char(64) Contraseña { get; set; }
+        public required string Contraseña { get; set; }
         public bool Es_admin { get; set; } 
 
     }
