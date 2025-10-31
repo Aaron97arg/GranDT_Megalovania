@@ -12,6 +12,7 @@ namespace CapaEntidad
         public int IdPuntuacion { get; set; }
         public float Puntuacion { get; set; }
         public short CantFecha { get; set; }
+        public short FK_IdFutbolista { get; set; }
         
 
     }
