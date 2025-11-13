@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\irepo\\irepofutbolistaplantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\irepo\\irepofutbolistaplantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\irepo\\irepofutbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\irepo\\irepofutbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\irepo\\irepousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\irepo\\irepousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\futbolistaplantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\futbolistaplantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\puntuaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\puntuaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\irepo\\irepoequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\irepo\\irepoequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\irepo\\irepoplantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\irepo\\irepoplantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\lab20-pc02\\downloads\\grandt_megalovania-main\\grandt_megalovania-main\\capaentidad\\irepo\\irepopuntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85F9F8F-BAEE-456A-99B2-E9F9BFB370B1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\irepo\\irepopuntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plantilla.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Plantilla.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Plantilla.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Plantilla.cs",
+              "RelativeToolTip": "CapaEntidad\\Plantilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:01:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FutbolistaPlantilla.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\FutbolistaPlantilla.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\FutbolistaPlantilla.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\FutbolistaPlantilla.cs",
+              "RelativeToolTip": "CapaEntidad\\FutbolistaPlantilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:58:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepoFutbolistaPlantilla.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoFutbolistaPlantilla.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\IRepo\\IRepoFutbolistaPlantilla.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoFutbolistaPlantilla.cs",
+              "RelativeToolTip": "CapaEntidad\\IRepo\\IRepoFutbolistaPlantilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:57:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Equipo.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Equipo.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Equipo.cs",
+              "RelativeToolTip": "CapaEntidad\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:55:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Futbolista.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Futbolista.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Futbolista.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Futbolista.cs",
+              "RelativeToolTip": "CapaEntidad\\Futbolista.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:45:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Puntuaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Puntuaciones.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Puntuaciones.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\Puntuaciones.cs",
+              "RelativeToolTip": "CapaEntidad\\Puntuaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:38:18.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoUsuario.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\IRepo\\IRepoUsuario.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoUsuario.cs",
+              "RelativeToolTip": "CapaEntidad\\IRepo\\IRepoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:13:43.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepoFutbolista.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoFutbolista.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\IRepo\\IRepoFutbolista.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoFutbolista.cs",
+              "RelativeToolTip": "CapaEntidad\\IRepo\\IRepoFutbolista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:43:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepoPuntuacion.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoPuntuacion.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\IRepo\\IRepoPuntuacion.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoPuntuacion.cs",
+              "RelativeToolTip": "CapaEntidad\\IRepo\\IRepoPuntuacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:38:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepoEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoEquipo.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\IRepo\\IRepoEquipo.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoEquipo.cs",
+              "RelativeToolTip": "CapaEntidad\\IRepo\\IRepoEquipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:31:44.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepoPlantilla.cs",
+              "DocumentMoniker": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoPlantilla.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\IRepo\\IRepoPlantilla.cs",
+              "ToolTip": "C:\\Users\\Lab20-PC02\\Downloads\\GranDT_Megalovania-main\\GranDT_Megalovania-main\\CapaEntidad\\IRepo\\IRepoPlantilla.cs",
+              "RelativeToolTip": "CapaEntidad\\IRepo\\IRepoPlantilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:24:01.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
