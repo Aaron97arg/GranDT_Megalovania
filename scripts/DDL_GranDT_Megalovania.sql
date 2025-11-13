@@ -99,8 +99,8 @@ CREATE TABLE Futbolista_Plantilla (
 	idPlantilla TINYINT UNSIGNED NOT NULL,
 	idFutbolista SMALLINT UNSIGNED NOT NULL,
 	CONSTRAINT pk_Futbolista_Plantilla PRIMARY KEY (idFutbolistaPlantilla ASC),
-	CONSTRAINT fk_FP_Futbolista FOREIGN KEY (idFutbolista) REFERENCES Futbolista (idFutbolista) ON DELETE NO ACTION ON UPDATE NO ACTION,
-	CONSTRAINT fk_FP_Plantilla FOREIGN KEY (idPlantilla) REFERENCES Plantilla (idPlantilla) ON DELETE NO ACTION ON UPDATE NO ACTION
+	CONSTRAINT fk_Futbolista FOREIGN KEY (idFutbolista) REFERENCES Futbolista (idFutbolista) ON DELETE NO ACTION ON UPDATE NO ACTION,
+	CONSTRAINT fk_Plantilla FOREIGN KEY (idPlantilla) REFERENCES Plantilla (idPlantilla) ON DELETE NO ACTION ON UPDATE NO ACTION
 );
 
 SELECT 'Tablas creadas correctamente' AS 'Estado Final';
