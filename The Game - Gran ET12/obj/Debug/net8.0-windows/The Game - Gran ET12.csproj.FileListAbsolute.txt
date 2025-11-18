@@ -1,0 +1,154 @@
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.exe
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.deps.json
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.runtimeconfig.json
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.dll
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.pdb
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Form1.resources
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Menu.resources
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Properties.Resources.resources
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.GenerateResource.cache
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfoInputs.cache
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfo.cs
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.dll
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\refint\The Game - Gran ET12.dll
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.pdb
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.genruntimeconfig.cache
+D:\Nueva carpeta\Forms\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\ref\The Game - Gran ET12.dll
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.exe
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.deps.json
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.runtimeconfig.json
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.dll
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.pdb
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_CrearCuenta.resources
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_InicioSesion.resources
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Menu.resources
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Properties.Resources.resources
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.GenerateResource.cache
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfoInputs.cache
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfo.cs
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.dll
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\refint\The Game - Gran ET12.dll
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.pdb
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.genruntimeconfig.cache
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\ref\The Game - Gran ET12.dll
+D:\Nueva carpeta\Proyecto The Game - Gran ET12\The Game - Gran ET12\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Game1.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.exe
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.deps.json
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.runtimeconfig.json
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.pdb
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_CrearCuenta.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Game1.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_InicioSesion.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Menu.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Properties.Resources.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.GenerateResource.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfoInputs.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfo.cs
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\refint\The Game - Gran ET12.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.pdb
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.genruntimeconfig.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\ref\The Game - Gran ET12.dll
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.exe
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.deps.json
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.runtimeconfig.json
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.dll
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.pdb
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Adm.resources
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Adm_Puntuaciones.resources
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_CrearCuenta.resources
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Game1.resources
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_InicioSesion.resources
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Menu.resources
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Properties.Resources.resources
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.GenerateResource.cache
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfoInputs.cache
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfo.cs
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.CoreCompileInputs.cache
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.dll
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\refint\The Game - Gran ET12.dll
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.pdb
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.genruntimeconfig.cache
+F:\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\ref\The Game - Gran ET12.dll
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.exe
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.deps.json
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.runtimeconfig.json
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.dll
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.pdb
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Adm_Puntuaciones.resources
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_CrearCuenta.resources
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Game1.resources
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_InicioSesion.resources
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Menu.resources
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Properties.Resources.resources
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.GenerateResource.cache
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfoInputs.cache
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfo.cs
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.dll
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\refint\The Game - Gran ET12.dll
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.pdb
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.genruntimeconfig.cache
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\ref\The Game - Gran ET12.dll
+D:\Nueva carpeta\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Adm_Jugadores.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.exe
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.deps.json
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.runtimeconfig.json
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.dll
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.pdb
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Adm_Jugadores.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Adm_Puntuaciones.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_CrearCuenta.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Game1.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_InicioSesion.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Menu.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Properties.Resources.resources
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.GenerateResource.cache
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfoInputs.cache
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfo.cs
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.CoreCompileInputs.cache
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.dll
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\refint\The Game - Gran ET12.dll
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.pdb
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.genruntimeconfig.cache
+C:\Users\Lab20-PC02\Desktop\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\ref\The Game - Gran ET12.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.exe
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.deps.json
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.runtimeconfig.json
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\The Game - Gran ET12.pdb
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.AssemblyReference.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Adm_Jugadores.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Adm_Puntuaciones.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_CrearCuenta.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Game1.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_InicioSesion.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.F_Menu.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The_Game___Gran_ET12.Properties.Resources.resources
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.GenerateResource.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfoInputs.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.AssemblyInfo.cs
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game.5047D173.Up2Date
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\refint\The Game - Gran ET12.dll
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.pdb
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\The Game - Gran ET12.genruntimeconfig.cache
+C:\Users\aaron\Documents\Proyectos\Proyectos C#\Proyectos\Proyecto en Microsoft Visual\Proyecto The Game - Gran ET12\The Game - Gran ET12 (2.0)\The Game - Gran ET12\obj\Debug\net8.0-windows\ref\The Game - Gran ET12.dll
